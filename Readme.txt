@@ -18,6 +18,7 @@ An end-to-end Machine Learning project that predicts house prices using the Ames
 - Scikit-learn
 - XGBoost
 - Streamlit
+-plotly
 
 ## Project Structure
 
